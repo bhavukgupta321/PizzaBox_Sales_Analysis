@@ -6,13 +6,10 @@ The aim is to explore customer ordering patterns, revenue generation trends, and
 ## 📂 Dataset Description
 The project uses four main tables:
 
-order_details – Contains the order details including pizza ID and quantity.
-
-orders – Contains the order date and time details.
-
-pizza_types – Contains pizza names, categories, and descriptions.
-
-pizzas – Contains pizza IDs, type IDs, sizes, and prices.
+ - order_details – Contains the order details including pizza ID and quantity.
+ - orders – Contains the order date and time details.
+ - pizza_types – Contains pizza names, categories, and descriptions.
+ - pizzas – Contains pizza IDs, type IDs, sizes, and prices.
 
 ## 🎯 Objectives
 Identify key metrics like total orders, total revenue, and most popular pizzas.
